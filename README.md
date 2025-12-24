@@ -1,6 +1,6 @@
 # 蓝湖界面优化+去广告（油猴脚本）
 蓝湖美化、去广告、主页紧凑化、结构沉浸、原型目录紧凑组织对齐，设置面板，侧边栏折叠。
 
-安装地址：https://greasyfork.org/zh-CN/scripts/560066-%E8%93%9D%E6%B9%96%E7%95%8C%E9%9D%A2%E7%BE%8E%E5%8C%96-%E5%8E%BB%E5%B9%BF
+安装地址：https://greasyfork.org/zh-CN/scripts/560066-%E8%93%9D%E6%B9%96%E7%95%8C%E9%9D%A2%E4%BC%98%E5%8C%96-%E5%8E%BB%E5%B9%BF
 
 
